@@ -2,7 +2,7 @@
 using System.Diagnostics;
 
 
-/* Developer: Yuan Chen (Emerald 27044044)
+/* Developer: Yuan Chen (Emerald)
 
    This program will implement the standard bubble sort algorithm and another two improved methods to modify the algorithm , 
    
