@@ -1,6 +1,6 @@
 ﻿using System;
 
-/* Developer: Yuan Chen (Emerald 27044044)
+/* Developer: Yuan Chen (Emerald)
 
    This program will display an array and prompt the user to type one number in the array 
 
