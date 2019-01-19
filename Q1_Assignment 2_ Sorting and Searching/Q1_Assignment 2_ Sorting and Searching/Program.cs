@@ -1,6 +1,6 @@
 ﻿using System;
 
-/* Developer: Yuan Chen (Emerald 27044044)
+/* Developer: Yuan Chen (Emerald)
 
    This program has the job of displaying the n largest elements in the array  to the screen
    
